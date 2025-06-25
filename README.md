@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Victor Gabriel!
+# 👋 Olá, eu sou o Victor !
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Em formação como **Desenvolvedor Full Stack**  
